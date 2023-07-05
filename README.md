@@ -1,10 +1,52 @@
-<br/>
+# Rust Perseus
+
+- homepages(WASM)
+
+https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
+
+```
+  
+perseus deploy -e 
+
+로 해서 
+
+파이썬 서버로 하면 됩니다. ㅎㅎ
+```
+
+
+https://github.com/framesurge/perseus
+
+- localhost 8080 내 컴퓨터에서 test
+
+```
+cargo install perseus-cli
+
+perseus serve -w 
+```
+
+https://framesurge.sh/perseus/en-US/docs/0.4.x/quickstart
+
+https://framesurge.sh/perseus/en-US/
+
+
+- CSS 갓 갓 Tailwind
+
+https://github.com/wingertge/perseus-tailwind
+
+https://tailwindcss.com/
+
+- Perseus-todo-app
+  - [Building a Rust app with Perseus](https://blog.logrocket.com/building-rust-app-perseus/)
+  - https://github.com/ezesundayeze/perseus-todo-app
+
+<hr>
 <br/>
 
 <p align="center">
 <img src="https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png" width="50%" alt="Cloudtype"/>
 </p>
 
+<br/>
 <br/>
 <br/>
 
@@ -46,3 +88,8 @@ uvicorn main:app --host=0.0.0.0 --port=8000
 ## 📄 License
 
 [MIT](https://github.com/tiangolo/fastapi/blob/master/LICENSE)
+# Result
+
+```
+
+```
