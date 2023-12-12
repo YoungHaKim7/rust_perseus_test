@@ -1,5 +1,9 @@
 # Rust Perseus
 
+https://github.com/framesurge/perseus
+
+<hr>
+
 - homepages(WASM)
 
 https://port-0-rusthomepage-dihik2mljdovxnx.sel4.cloudtype.app/
